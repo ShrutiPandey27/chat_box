@@ -1,0 +1,20 @@
+
+
+.message{
+    padding:10px;
+    margin:10px;
+    width:fit-content;
+    background-color: bisque;
+}
+.message__user{
+    margin-left:auto;
+    color:pink;
+    text-align:right !important;
+}
+.message__userCard{
+    background-color:rgb(18, 155, 114) !important;
+}
+.message__questCard{
+    background-color:rgb(196, 135, 21) !important;
+    margin-right:auto;
+}
